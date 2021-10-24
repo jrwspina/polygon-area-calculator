@@ -1,4 +1,4 @@
-### Polygon Area Calculator is a project part of freeCodeCamp's Scientific Computing with Python course.
+#### Polygon Area Calculator is a project part of freeCodeCamp's [Scientific Computing with Python course](https://www.freecodecamp.org/learn/scientific-computing-with-python/), the solution can be found in *shape_calculator.py*.
 
 ### Assignment
 
